@@ -1,11 +1,8 @@
 ---
 title: "STAT 210 Final Eportfolio: Alondra Casas"
+template: jolla
+image: IMG_1258.jpeg
+
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This Quarto website is my final eportfolio!
