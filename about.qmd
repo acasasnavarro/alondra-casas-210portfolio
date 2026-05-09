@@ -4,6 +4,4 @@ title: "About"
 
 About this site
 
-```{r}
-1 + 1
-```
+Hello! My name is Alondra Casas and I am an undergraduate student at CSUMB in Dr. Canner's STAT210 course. This is my final eportfolio!
