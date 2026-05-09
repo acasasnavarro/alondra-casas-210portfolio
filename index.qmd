@@ -1,5 +1,5 @@
 ---
-title: "alondra-casas-210portfolio"
+title: "STAT 210 Final Eportfolio: Alondra Casas"
 ---
 
 This is a Quarto website.
