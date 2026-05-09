@@ -171,35 +171,6 @@ ul.task-list li input[type="checkbox"] {
 <p>During the data cleaning process I filtered for when the larvae is greater than one because I didn’t want any zeros in my visualization skewing the plots. Then I added a column called “Status” to show the exact counts of larvae and settled stars for each container each day. I then added a column to calculate proportion to see the rate of settlement over time.</p>
 <p>You can add options to executable code like this</p>
 <div class="cell">
-<div class="cell-output cell-output-stderr">
-<pre><code>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ dplyr     1.2.1     ✔ readr     2.2.0
-✔ forcats   1.0.1     ✔ stringr   1.6.0
-✔ ggplot2   4.0.3     ✔ tibble    3.3.1
-✔ lubridate 1.9.5     ✔ tidyr     1.3.2
-✔ purrr     1.2.2     
-── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-✖ dplyr::filter() masks stats::filter()
-✖ dplyr::lag()    masks stats::lag()
-ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
-</div>
-</div>
-<div class="cell">
-<div class="cell-output cell-output-stderr">
-<pre><code>Rows: 216 Columns: 6
-── Column specification ────────────────────────────────────────────────────────
-Delimiter: ","
-chr (2): Date, Treatment
-dbl (4): Container, Larvae, Settled, Day
-
-ℹ Use `spec()` to retrieve the full column specification for this data.
-ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
-</div>
-</div>
-<div class="cell">
-<div class="cell-output cell-output-stderr">
-<pre><code>`geom_smooth()` using method = 'loess' and formula = 'y ~ x'</code></pre>
-</div>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
@@ -209,12 +180,6 @@ dbl (4): Container, Larvae, Settled, Day
 </div>
 </div>
 <div class="cell">
-<div class="cell-output cell-output-stderr">
-<pre><code>Warning in fortify(data, ...): Arguments in `...` must be used.
-✖ Problematic argument:
-• colors = "virdis"
-ℹ Did you misspell an argument name?</code></pre>
-</div>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
