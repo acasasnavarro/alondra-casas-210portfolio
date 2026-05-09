@@ -4,4 +4,6 @@ title: "About"
 
 About this site
 
-Hello! My name is Alondra Casas and I am an undergraduate student at CSUMB in Dr. Canner's STAT210 course. This is my final eportfolio!
+Hello! My name is Alondra Casas and I am a fourth year undergraduate marine science student at CSUMB in Dr. Canner's STAT210 course. I've decided to take this class to strengthen my r skills and widen my knowledge.
+
+This is my final eportfolio!
