@@ -20,4 +20,6 @@ format:
     toc: true
 
 editor: visual
+execute:
+  echo: false
 

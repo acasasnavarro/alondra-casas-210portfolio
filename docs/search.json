@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\nHello! My name is Alondra Casas and I am a fourth year undergraduate marine science student at CSUMB in Dr. Canner’s STAT210 course. I’ve decided to take this class to strengthen my r skills and widen my knowledge.\nThis is my final eportfolio!"
+    "objectID": "portfolio.html#part-1---describe-your-process",
+    "href": "portfolio.html#part-1---describe-your-process",
+    "title": "portfolio",
+    "section": "Part 1 - Describe your Process",
+    "text": "Part 1 - Describe your Process"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "STAT 210 Final Eportfolio: Alondra Casas",
     "section": "",
     "text": "This Quarto website is my final eportfolio!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "About this site\nHello! My name is Alondra Casas and I am a fourth year undergraduate marine science student at CSUMB in Dr. Canner’s STAT210 course. I’ve decided to take this class to strengthen my r skills and widen my knowledge. I’m from Los Angeles, California and after graduation I am going to graduate school to get my M.S. in Ecology, Evolution, and Marine Biology at the University of California, Santa Barbara!\nThis is my final portfolio on data collected from my research project during my internship over the last year at the Monterey Bay Aquarium."
   }
 ]
