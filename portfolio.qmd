@@ -7,8 +7,6 @@ author: Alondra Casas
 
 ### STAT 210 Portfolio
 
-## Part 1 - Describe your Process
-
 # Data Description
 
 This is a data set of larval settlement of bat stars (*Patiria miniata*) over time. This data set is from my personal research project that I've been doing over the past few months. My proposed research question is "How does the substrate type affect the rate of *Patiria miniata* larvae settlement over time? This data set is a table of variables such as date, counts of settled stars and larvae, the container numbers and the corresponding treatments they're in. This data comes from my personal project so I'm the source and some cleaning I would like to do is filter for when larvae is greater than one, mutate the date column, add an "experiment date" column to show trend over days, and maybe adding proportions.
@@ -16,8 +14,6 @@ This is a data set of larval settlement of bat stars (*Patiria miniata*) over ti
 # Data Cleaning
 
 During the data cleaning process I filtered for when the larvae is greater than one because I didn't want any zeros in my visualization skewing the plots. Then I added a column called "Status" to show the exact counts of larvae and settled stars for each container each day. I then added a column to calculate proportion to see the rate of settlement over time.
-
-You can add options to executable code like this
 
 ```{r}
 #| echo: false
