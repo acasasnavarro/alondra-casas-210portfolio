@@ -1,7 +1,8 @@
 ---
 title: "STAT 210 Final Eportfolio: Alondra Casas"
-template: jolla
-image: IMG_1258.jpeg
+about: 
+  template: jolla
+  image: IMG_1258.jpeg
 
 ---
 
