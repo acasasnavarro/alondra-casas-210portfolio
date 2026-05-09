@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "alondra-casas-210portfolio"
@@ -18,7 +19,4 @@ format:
     toc: true
 
 editor: visual
-project:
-  type: website
-  output-dir: docs
 
