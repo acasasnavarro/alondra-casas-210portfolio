@@ -3,9 +3,9 @@
     "path": "~/STAT 210/alondra-casas-210portfolio/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "929916796",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1778293842983.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -16,11 +16,11 @@
         "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1778372133,
+    "lastKnownWriteTime": 1778372476,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1778372278274,
+    "last_content_update": 1778372476953,
     "read_only": false,
     "read_only_alternatives": []
 }
