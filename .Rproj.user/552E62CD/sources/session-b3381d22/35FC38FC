@@ -3,7 +3,7 @@
     "path": "~/STAT 210/alondra-casas-210portfolio/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "427978181",
+    "hash": "1753945248",
     "contents": "",
     "dirty": false,
     "created": 1778293993741.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "5:0",
-        "cursorPosition": "1,16",
+        "cursorPosition": "5,17",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1778372446,
+    "lastKnownWriteTime": 1778381125,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1778372446639,
+    "last_content_update": 1778381125797,
     "read_only": false,
     "read_only_alternatives": []
 }
