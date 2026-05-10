@@ -1,0 +1,7 @@
+---
+title: "about"
+format: html
+image: IMG_1258.jpeg
+---
+
+Hello! My name is Alondra Casas and this is my eportfolio for STAT 210.
