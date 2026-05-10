@@ -51,7 +51,7 @@ write_csv(starclean3, "data-clean/starclean3.csv")
 
 ```
 
-# Visualization 1 - Settlement Over Time 
+# Visualization 1 - Settlement Over Time
 
 This is my first visualization which is a scatter plot showing the number of settled stars over time (in days) for each treatment. Each color represents a treatment which is labeled in the legend. As you can see from the graph, the sea grape treatments had a large impact on settlement.
 
