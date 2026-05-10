@@ -1,0 +1,14 @@
+{
+  "index.qmd": {
+    "index.html": "376d36c6"
+  },
+  "about.qmd": {
+    "about.html": "bec90dab"
+  },
+  "portfolio.qmd": {
+    "portfolio.html": "56703ca1"
+  },
+  "stat210-portfolio/portfolio.qmd": {
+    "portfolio.html": "7b2bcc92"
+  }
+}
