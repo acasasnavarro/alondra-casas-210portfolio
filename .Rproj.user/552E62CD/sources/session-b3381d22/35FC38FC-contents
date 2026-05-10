@@ -1,8 +1,10 @@
 ---
 title: "About me"
+type: html
 image: "IMG_1258.jpeg"
 about:
   template: jolla
+
 ---
 
 Hello! My name is Alondra Casas and this is my eportfolio for STAT 210.

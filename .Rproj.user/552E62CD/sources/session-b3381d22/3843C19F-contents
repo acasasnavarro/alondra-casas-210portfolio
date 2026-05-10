@@ -8,9 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - text: About me
-      - href: stat210-portfolio/portfolio.qmd
+      - href: about.qmd
+        text: About me
+      - href: portfolio.qmd
+        text: Bat Star Larvae Settlement
 
 format:
   html:
