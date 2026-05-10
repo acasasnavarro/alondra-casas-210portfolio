@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - text: STAT 210 Portfolio
+      - text: S
       - href: stat210-portfolio/portfolio.qmd
 
 format:
