@@ -1,2 +1,6 @@
 /.quarto/
 **/*.quarto_ipynb
+.Rproj.user
+.quarto
+.DS_Store
+search.json

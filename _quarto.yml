@@ -10,7 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About me
-      - href: portfolio.qmd
+      - href: stat210-portfolio/portfolio.qmd
         text: Bat Star Larvae Settlement
 
 format:

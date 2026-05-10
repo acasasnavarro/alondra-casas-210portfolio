@@ -1,9 +1,7 @@
 ---
 title: "About me"
 type: html
-image: "IMG_1258.jpeg"
-about:
-  template: jolla
+
 
 ---
 
